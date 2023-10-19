@@ -1,4 +1,4 @@
-# Django Sesion
+# Django DRF Sesion
 
 ## Comandos
 
